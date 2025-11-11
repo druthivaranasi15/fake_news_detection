@@ -42,12 +42,29 @@ The goal is to identify which model performs best for fake news detection.
 ---
 
 # Results
-The best-performing model achieved high accuracy in distinguishing fake and real news.  
-You can visualize results through confusion matrices and performance graphs within the notebook.
+Logistic Regression model accuracy: 0.9868596881959911
+naive bayes model accuracy: 0.9398663697104677
+Random Forest Model accuracy: 0.9898663697104677
 
 ---
 
 # How to Run
 1. Open the Jupyter Notebook:
-   ```bash
+   ```bash```
    jupyter notebook "Fake news Detection.ipynb"
+
+## Author
+**Varanasi Druthi**  
+3rd Year CSE (Data Science), IIIT Nagpur  
+
+---
+
+## License
+This project is open-source and available for educational and research purposes.
+
+---
+
+## 🧾 Acknowledgements
+- Inspired by open-source Human Action Recognition datasets and research papers.  
+- Built using Python’s machine learning ecosystem — Scikit-learn, NumPy, Pandas, and Matplotlib.  
+- Special thanks to academic mentors and dataset providers for guidance and support.
